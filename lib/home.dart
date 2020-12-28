@@ -39,7 +39,7 @@ class _HomeState extends State<Home> {
           Container(
             height: MediaQuery.of(context).size.height,
             width: MediaQuery.of(context).size.width,
-            color: Color(0xffffe971),
+            color: Color(0xff1d59c3),
           ),
           Align(
             alignment: Alignment.bottomCenter,
@@ -50,7 +50,7 @@ class _HomeState extends State<Home> {
           Visibility(
             visible: _image == null,
             child: Center(
-              child: Image.asset('assets/images/amas_home.gif'),
+              child: Image.asset('assets/images/logo.jpeg'),
             ),
           ),
           Scaffold(
@@ -59,20 +59,14 @@ class _HomeState extends State<Home> {
               elevation: 0,
               centerTitle: true,
               backgroundColor: Colors.transparent,
-              title: Hero(
-                tag: 'logo',
-                child: Image.asset(
-                  'assets/images/amas_splash.gif',
-                  height: 100.0,
+              title: Text(
+                'UTU Attendance System',
+                style: TextStyle(
+                  color: Colors.white,
+                  fontSize: 30.0,
+                  fontWeight: FontWeight.bold,
                 ),
               ),
-              // Text(
-              //   'AMAS',
-              //   style: GoogleFonts.lobster(
-              //     color: Colors.black,
-              //     fontSize: 30.0,
-              //   ),
-              // ),
             ),
             body: _loading
                 ? Container(

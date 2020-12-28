@@ -28,13 +28,12 @@ class _SplashScreenState extends State<SplashScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xffffe971),
+      backgroundColor: Color(0xff1d59c3),
       body: Center(
         child: Hero(
           tag: 'logo',
           child: Image.asset(
-            'assets/images/amas_splash.gif',
-            //height: logoAnimation.value * 10000.0,
+            'assets/images/logo.jpeg',
           ),
         ),
       ),
