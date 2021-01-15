@@ -1,35 +1,36 @@
-0 Megha
-1 Amisha
-2 Jahanvi
-3 Aamir Khan
-4 Abhay Deol
-5 Abhishek Bachchan
-6 Aftab Shivdasani
-7 Aishwarya Rai
-8 Ajay Devgn
-9 Akshay Kumar
-10 Akshaye Khanna
-11 Alia Bhatt
-12 Ameesha Patel
-13 Amitabh Bachchan
-14 Amrita Rao
-15 Amy Jackson
-16 Anil Kapoor
-17 Anushka Sharma
-18 Anushka Shetty
-19 Arjun Kapoor
-20 Arjun Rampal
-21 Arshad Warsi
-22 Asin
-23 Ayushmann Khurrana
-24 Bhumi Pednekar
-25 Bipasha Basu
-26 Bobby Deol
-27 Deepika Padukone
-28 Disha Patani
-29 Emraan Hashmi
-30 Esha Gupta
-31 Farhan Akhtar
-32 Govinda
-33 Hrithik Roshan
-34 Huma Qureshi
+Megha
+Amisha
+Jahanvi
+Aamir Khan
+Abhay Deol
+Abhishek Bachchan
+Aftab Shivdasani
+Aishwarya Rai
+Ajay Devgn
+Akshay Kumar
+Akshaye Khanna
+Alia Bhatt
+Ameesha Patel
+Amitabh Bachchan
+Amrita Rao
+Amy Jackson
+Anil Kapoor
+Anushka Sharma
+Anushka Shetty
+Arjun Kapoor
+Arjun Rampal
+Arshad Warsi
+Asin
+Ayushmann Khurrana
+Bhumi Pednekar
+Bipasha Basu
+Bobby Deol
+Deepika Padukone
+Disha Patani
+Emraan Hashmi
+Esha Gupta
+Farhan Akhtar
+Govinda
+Hrithik Roshan
+Huma Qureshi
+Swati
